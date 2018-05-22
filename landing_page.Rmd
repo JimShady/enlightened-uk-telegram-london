@@ -45,9 +45,9 @@ Have a look through the [chat rooms table](#newplayerchatrooms) below, find your
 | Leicester Enl      | [Click here](https://en.wikipedia.org/wiki/Leicestershire)     |
 
 ## For verified players {#verifiedplayers}
-The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
+The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/comm/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
 
-If you aren't in the correct [Rocks community](https://enlightened.rocks/), the link will not work for you. In addition, if your Telegram isn't linked to a [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile you will be immediately 'booted' from the chat room by a Telegram bot (sorry, we love you really).
+If you aren't in the correct [Rocks community](https://enlightened.rocks/comm/), the link will not work for you. In addition, if your Telegram isn't linked to a [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile you will be immediately 'booted' from the chat room by a Telegram bot (sorry, we love you really).
 
 ## Verified player chat rooms {#newplayerchatrooms}
 |  Area              | Verified - local                                             | Verified - regional                                         |
