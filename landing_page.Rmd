@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Welcome {#welcome}
-Welcome to the landing page for the UK Enlightened Telegram community. Telegram is a chat app that many Enlightened agents around the word use to coordinate their activities, plan operations, meet for socials, and to swap cake recipes + cat memes.
+Welcome to the landing page for the UK Enlightened Telegram community. Telegram is a chat app that many Enlightened agents around the world use to coordinate their activities, plan operations, meet for socials, and to swap cake recipes + cat memes.
 
 We presume you are here because you might be interested in things like that.
 
