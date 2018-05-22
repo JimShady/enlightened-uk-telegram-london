@@ -38,7 +38,7 @@ The chat links shown in the 'Verified - local' and 'Verified - regional' rooms b
 
 If you aren't in the correct Rocks Community, the link will not work for you. In addition, if your Telegram isn't linked to a [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile you will be immediately 'booted' from the chat room by a Telegram bot.
 
-If tou think that these links should be working for you, but they aren't, please talk to a member of your local community to resolve it.
+If you think that these links should be working for you, but they aren't, please talk to a member of your local community for help.
 
 ## Chat rooms {#chatrooms}
 |  Area              |  New players           | Verified - local        | Verified - regional                                         |
