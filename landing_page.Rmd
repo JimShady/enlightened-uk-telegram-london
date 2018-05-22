@@ -10,6 +10,12 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "docs", output_file ="index.html") }) 
 ---
 
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri("telegram_logo.png"), 
+               alt = 'logo', 
+               style = 'position:absolute; top:0; right:0; padding:20px;')
+```
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
