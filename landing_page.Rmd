@@ -1,0 +1,45 @@
+---
+title: "Enlightened UK Telegram"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
+    collapsed: false
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "docs") }) 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome {#welcome}
+Welcome to the landing page for the UK Enlightened Telegram community. Telegram is a chat app that many UK-ENL agents use to coordinate their activities, plan operations, meet for socials, and to swap cake recipes + cat memes. We presume you are here because you might be interested in things like that.
+
+
+## Getting set-up on Telegram {#telegramsetup}
+What to do now?  Well first, make sure you have [Telegram installed](https://telegram.org/). Then [set your Telegram username](https://telegram.org/blog/usernames-and-secret-chats-v2) to be your agent name (or something like it, if it's already taken). 
+
+## For new players {#newplayers}
+Have a look through the chat rooms table further down this page, and find your 'home area'. Then click on the link in the 'new players' column. This will add you to a chat room with some local and trusted Enl agents who can talk you through any questions you have about the game, and in time give you permission to join the 'Verified' chat rooms for that area. You can try clicking on them now if you like, but they won't work due to Enlightened techy magic.
+
+## For verified players {#verifiedplayers}
+The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/) for that region. In addition, your Telegram ID will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile. If you aren't in the correct Rocks Community, the link will not work for you. In addition, if your Telegram isn't linked to a [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile you will be immediately 'booted' from the chat room by a Telegram bot.
+
+If something is going wrong for you here, please talk to a member of your local community to resolve it.
+
+## Chat rooms {#chatrooms}
+|  Area              |  New players           | Verified - local        | Verified - regional                                         |
+|:-------------------|:----------------------:|:-----------------------:|:-----------------------------------------------------------:|
+| North London Enl   | [Click here](N London) | [Click here](N London)  | [Click here](https://t.me/joinchat/CLM_hA9a6v2IjAqy0aeLbQ)  |
+| East London Enl    | [Click here](E London) | [Click here](E London)  | [Click here](https://t.me/joinchat/CLM_hA9a6v2IjAqy0aeLbQ)  |
+| South London Enl   | [Click here](S London) | [Click here](S London)  | [Click here](https://t.me/joinchat/CLM_hA9a6v2IjAqy0aeLbQ)  |
+| West London Enl    | [Click here](W London) | [Click here](W London)  | [Click here](https://t.me/joinchat/CLM_hA9a6v2IjAqy0aeLbQ)  |
+| Nottingham Enl     | [Click here](https://en.wikipedia.org/wiki/Nottinghamshire) | [Click here](https://en.wikipedia.org/wiki/Nottinghamshire)  | [Click here](https://en.wikipedia.org/wiki/East_Midlands)  |
+| Leicester Enl      | [Click here](https://en.wikipedia.org/wiki/Leicestershire) | [Click here](https://en.wikipedia.org/wiki/Leicestershire)  | [Click here](https://en.wikipedia.org/wiki/East_Midlands)  |
+
+## Adding more rooms {#addingrooms}
+If you're reading this and you'd like to have your local and regional chat added to the above list, please join [this room](www.google.com) to talk to someone about it (verified agents only)
+
+Last updated `r format(Sys.time(), '%Y-%m%-%d %H%:%M')`
