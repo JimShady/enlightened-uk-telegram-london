@@ -34,9 +34,9 @@ Optionally, if you have an android phone, you might consider replacing the Teleg
 Have a look through the chat rooms table further down this page, and find your local region. Then click on the link in the 'New players' column. This will add you to a chat room with some local and trusted Enl agents who can talk you through any questions you have about the game, and in time give you permission to join the 'Verified' chat rooms for that area.
 
 ## For verified players {#verifiedplayers}
-The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
+The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/comm/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
 
-If you aren't in the correct [Rocks community](https://enlightened.rocks/), the link will not work for you. In addition, if your Telegram isn't linked to a [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile you will be immediately 'booted' from the chat room by a Telegram bot (sorry, we love you really).
+If you aren't in the correct [Rocks community](https://enlightened.rocks/comm/), the link will not work for you. In addition, if your Telegram isn't linked to a [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile you will be immediately 'booted' from the chat room by a Telegram bot (sorry, we love you really).
 
 ## Chat rooms {#chatrooms}
 |  Area              |  New players           | Verified - local        | Verified - regional                                         |
