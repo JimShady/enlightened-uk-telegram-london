@@ -35,14 +35,18 @@ Have a look through the [chat rooms table](#newplayerchatrooms) below, find your
 
 
 ## New player chat rooms {#newplayerchatrooms}
-|  Area              |  New players                                                   |
-|:-------------------|:--------------------------------------------------------------:|
-| North London Enl   | [Click here](N London)                                         |
-| East London Enl    | [Click here](E London)                                         |
-| South London Enl   | [Click here](S London)                                         |
-| West London Enl    | [Click here](W London)                                         |
-| Nottingham Enl     | [Click here](https://en.wikipedia.org/wiki/Nottinghamshire)    |
-| Leicester Enl      | [Click here](https://en.wikipedia.org/wiki/Leicestershire)     |
+|  Area              |  New players                     |
+|:-------------------|:--------------------------------:|
+| North London Enl   | [North London Enl](www.google.com)     |
+| East London Enl    | [East London Enl](www.google.com)     |
+| South London Enl   | [South London Enl](www.google.com)     |
+| West London Enl    | [West London Enl](www.google.com)     |
+| Nottingham Enl     | [Nottingham Enl](www.google.com)     |
+| Leicester Enl      | [Leicester Enl](www.google.com)     |
+| Brighton Enl       | [Brighton Enl](www.google.com)     |
+| Leicester Enl      | [Leicester Enl](www.google.com)     |
+| Nottingham Enl     | [Nottingham Enl](www.google.com)     |
+| Cornwall Enl       | [Cornwall Enl](www.google.com)     |
 
 ## For verified players {#verifiedplayers}
 The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/comm/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
@@ -50,14 +54,18 @@ The chat links shown in the 'Verified - local' and 'Verified - regional' rooms b
 If you aren't in the correct [Rocks community](https://enlightened.rocks/comm/), the link will not work for you. In addition, if your Telegram isn't linked to a [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile you will be immediately 'booted' from the chat room by a Telegram bot (sorry, we love you really).
 
 ## Verified player chat rooms {#newplayerchatrooms}
-|  Area              | Verified - local                                             | Verified - regional                                         |
-|:-------------------|:------------------------------------------------------------:|:-----------------------------------------------------------:|
-| North London Enl   | [Click here](N London)                                       | [Click here](https://t.me/joinchat/CLM_hA9a6v2IjAqy0aeLbQ)  |
-| East London Enl    | [Click here](E London)                                       | [Click here](https://t.me/joinchat/CLM_hA9a6v2IjAqy0aeLbQ)  |
-| South London Enl   | [Click here](S London)                                       | [Click here](https://t.me/joinchat/CLM_hA9a6v2IjAqy0aeLbQ)  |
-| West London Enl    | [Click here](W London)                                       | [Click here](https://t.me/joinchat/CLM_hA9a6v2IjAqy0aeLbQ)  |
-| Nottingham Enl     | [Click here](https://en.wikipedia.org/wiki/Nottinghamshire)  | [Click here](https://en.wikipedia.org/wiki/East_Midlands)   |
-| Leicester Enl      | [Click here](https://en.wikipedia.org/wiki/East_Midlands)    | [Click here](https://en.wikipedia.org/wiki/East_Midlands)   |
+|  Area              | Verified - local                       | Verified - regional               |
+|:-------------------|:--------------------------------------:|:---------------------------------:|
+| North London Enl   | [North London Enl](www.google.com)     | [London Enl](www.google.com)      |
+| East London Enl    | [East London Enl](www.google.com)      | [London Enl](www.google.com)      |
+| South London Enl   | [South London Enl](www.google.com)     | [London Enl](www.google.com)      |
+| West London Enl    | [West London Enl](www.google.com)      | [London Enl](www.google.com)      |
+| Nottingham Enl     | [Nottingham Enl](www.google.com)       | [East Mids Enl](www.google.com)   |
+| Leicester Enl      | [Leicester Enl](www.google.com)        | [East Mids Enl](www.google.com)   |
+| Brighton Enl       | [Leicester Enl](www.google.com)        | [East Mids Enl](www.google.com)   |
+| Leicester Enl      | [Leicester Enl](www.google.com)        | [East Mids Enl](www.google.com)   |
+| Surrey Enl         |                                        | [Surrey Enl](www.google.com)      |
+| Cornwall Enl       |                                        | [Cornwall Enl](www.google.com)      |
 
 If you think that these links should be working for you, but they aren't, please talk to a member of your local community for help.
 
