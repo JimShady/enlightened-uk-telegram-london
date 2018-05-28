@@ -46,17 +46,10 @@ Have a look through the [new player chat rooms](#newplayerchatrooms) below, find
 ```{r include = F}
 x    <- seq(as.Date(Sys.Date()), as.Date(Sys.Date()) %m+% months(1), by="1 day")
 date <- x[wday(x,label = TRUE) == "Fri" & day(x) <= 7]
-coords = cbind(-0.129012,51.528275)
-sp = SpatialPoints(coords)
-proj4string(sp) <- CRS("+init=epsg:4326")
 ```
 
 ## Social events
 Once a week we meet in a cafe or bar for an hour or two. Sometimes there are three of us, sometimes there are thirty! We focus mainly on having a chat and social, but we also normally build some high level portals so that we can hack high level weapons and resonators together. It's a nice opportunity to restock. Our next public event is on `r paste(day(date), months(date), year(date) )` at The Rocket near Euston if you fancy coming along. There's a map below.
-
-```{r echo=F}
-mapview(sp, map.types = 'CartoDB.DarkMatter')
-```
 
 ## For verified players {#verifiedplayers}
 The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/comm/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
@@ -66,7 +59,7 @@ If you aren't in the correct [Rocks community](https://enlightened.rocks/comm/),
 ## Verified player chat rooms {#newplayerchatrooms}
 |  Area                      | Verified - local                             | Verified - regional               |
 |:---------------------------|:--------------------------------------------:|:---------------------------------:|
-| London (South) Enlightened | [South London Enlightened](www.google.com)   | [London Enlightened](www.google.com)      |
+| London (South) Enlightened | [South London Enlightened](https://theenl.uk/joinchat?id=ee13ae0cf960a9c48dbb6c7ba502b48034acdc32ac171cf85b3094cf33f7ebaeb8fa1975778fc1b4eb28e15b7148e580f3552f49202242b1a01a2dc887ffc1d9af5d5a47d1e26882a7ae25caf01df995)   | [London Enlightened](https://theenl.uk/joinchat?id=e29f3cb7e677b2a30003182f99a89445ebea9f3ab5b21a2478af59e15d7bbf693e93defc9a7c51b2e772de72b1ed6053e31e9cf83c40b58147ac60a3627bae2806384a51ebb777eb72ba88883faa0079)      |
 
 If you think that these links should be working for you, but they aren't, please talk to a member of your local community for help.
 
