@@ -49,7 +49,15 @@ date <- x[wday(x,label = TRUE) == "Fri" & day(x) <= 7]
 ```
 
 ## Social events
-Once a week we meet in a cafe or bar for an hour or two. Sometimes there are three of us, sometimes there are thirty! We focus mainly on having a chat and social, but we also normally build some high level portals so that we can hack high level weapons and resonators together. It's a nice opportunity to restock. Our next public event is on `r paste(day(date), months(date), year(date) )` at The Rocket near Euston if you fancy coming along. There's a map below.
+Once a week we meet in a cafe or bar for an hour or two. Sometimes there are three of us, sometimes there are thirty. We focus mainly on having a chat and social, but we also normally build some high level portals so that we can hack high level weapons and resonators together. It's a nice opportunity to restock. Our next public event is on `r paste(day(date), months(date), year(date) )` at The Rocket near Euston if you fancy coming along. If you're worried about finding us, just look for a group of people with external battery packs connected to their phones! Failing that, ask in the [new player chats](#newplayerchatrooms) above.
+
+## Useful bots and channels
+There are a number of news channels and bots in Telegram that you might want to look at. Here's a few of our favourites.
+
+* [IngressMosaikBot](https://telegram.me/IngressMosaikBot) - A bot that will show you banner missions near the location you send it
+* [Enlightened Today](https://telegram.me/IEToday) - Enlightened news, facts and fun from around the world
+* [V Bot](https://telegram.me/IEToday) - A bot for V related things
+* [Rocks Bot](https://telegram.me/IEToday) - A bot for Rocks related things
 
 ## For verified players {#verifiedplayers}
 The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/comm/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
