@@ -58,6 +58,8 @@ There are a number of news channels and bots in Telegram that you might want to 
 * [Enlightened Today](https://telegram.me/IEToday) - Enlightened news, facts and fun from around the world
 * [V Bot](https://telegram.me/IEToday) - A bot for V related things
 * [Rocks Bot](https://telegram.me/IEToday) - A bot for Rocks related things
+* [IUENG](https://telegram.me/IEToday) - Another Enlightened news channel. Good for ongoing updates at anomalies particularly
+* [EnlightenedUK](https://t.me/enlightenedUK) - Enlightened Ingress news - UK focused
 
 ## For verified players {#verifiedplayers}
 The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/comm/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
