@@ -49,16 +49,16 @@ date <- x[wday(x,label = TRUE) == "Fri" & day(x) <= 7]
 ```
 
 ## Social events
-The Enlightened in London are a pretty social bunch. We meet (at least) once per week in a bar or cafe for a chat/drink, and normally build some high level portals so that we can hack high level kit together. We'd love you to join us! Our next public event is on **`r paste(day(date), months(date), year(date) )` at [The Rocket](https://goo.gl/maps/cTzJiQ9WAbE2)** pub near Euston. People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We're easy to spot. Please come over and introduce yourself.
+The Enlightened in London are a pretty social bunch. We meet (at least) once per week in a bar or cafe for a chat/drink, and normally build some high level portals so that we can hack high level kit together. We'd love you to join us! Our next public event is on **`r paste(day(date), months(date), year(date) )`** at [The Rocket](https://goo.gl/maps/cTzJiQ9WAbE2) pub near Euston. People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We're easy to spot. Please come over and introduce yourself.
 
 ## Useful bots and channels
 There are a number of news channels and bots in Telegram that you might want to look at. Here's a few of our favourites.
 
 * [IngressMosaikBot](https://telegram.me/IngressMosaikBot) - A bot that will show you banner missions near the location you send it
 * [Enlightened Today](https://telegram.me/IEToday) - Enlightened news, facts and fun from around the world
-* [V Bot](https://telegram.me/IEToday) - A bot for V related things
-* [Rocks Bot](https://telegram.me/IEToday) - A bot for Rocks related things
-* [IUENG](https://telegram.me/IEToday) - Another Enlightened news channel. Good for ongoing updates at anomalies particularly
+* [V Bot](https://telegram.me/vtgadminbot) - A bot for V related things
+* [Rocks Bot](https://telegram.me/RocksBot) - A bot for Rocks related things
+* [IUENG](https://t.me/IUENG) - Crossfaction Ingress Updates in English, particularly good for anomalies
 * [EnlightenedUK](https://t.me/enlightenedUK) - Enlightened Ingress news - UK focused
 
 ## For verified players {#verifiedplayers}
