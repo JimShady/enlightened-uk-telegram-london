@@ -61,6 +61,9 @@ There are a number of news channels and bots in Telegram that you might want to 
 * [IUENG](https://t.me/IUENG) - Crossfaction Ingress Updates in English, particularly good for anomalies
 * [EnlightenedUK](https://t.me/enlightenedUK) - Enlightened Ingress news - UK focused
 
+## Ingress Intel Total Conversion
+If you haven't found it yet, there's an online Ingress map. You can browse areas of the world to see portals and links, and if you're inclined, use it to plan your fields (or which areas to destroy!). The standard version of this map can [be found here](https://ingress.com/intel), viewable through a web-browser. However some clever people have an overlay for it, called IITC. It's like the stanard map, but better. You can find [more details about it here](https://iitc.me/).
+
 ## For verified players {#verifiedplayers}
 The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/comm/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
 
