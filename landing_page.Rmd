@@ -41,7 +41,7 @@ Have a look through the [new player chat rooms](#newplayerchatrooms) below, find
 ## New player chat rooms {#newplayerchatrooms}
 |  Area              |  New players                                |
 |:-------------------|:-------------------------------------------:|
-| London (South)     | [South London Enlightened](https://theenl.uk/joinchat?id=69501db0e1fde7654c37a4e2c42bf0fa9ba4706ae3c647998fe1dc93dc88d8c338f3b1cf3a07a3127b495a970daadc860d040188a1595f30a2962353c6b77fa92cfb96ec5a2fa610eecda3baf8d072ad)  |
+| London (South)     | [South London Enlightened](https://t.me/joinchat/CLM_hEYFlIjFAbVwz3UtAQ)  |
 
 ```{r include = F}
 x    <- seq(as.Date(Sys.Date()), as.Date(Sys.Date()) %m+% months(1), by="1 day")
@@ -62,7 +62,7 @@ There are a number of news channels and bots in Telegram that you might want to 
 * [EnlightenedUK](https://t.me/enlightenedUK) - Enlightened Ingress news - UK focused
 
 ## Ingress Intel Total Conversion
-If you haven't found it yet, there's an online Ingress map. You can browse areas of the world to see portals and links, and if you're inclined, use it to plan your fields (or which areas to destroy!). The standard version of this map can [be found here](https://ingress.com/intel), viewable through a web-browser. However some clever people have an overlay for it, called IITC. It's like the stanard map, but better. You can find [more details about it here](https://iitc.me/).
+If you haven't found it yet, there's an online Ingress map. You can browse areas of the world to see portals and links, and if you're inclined, use it to plan your fields (or which areas to destroy!). The standard version of this map can [be found here](https://ingress.com/intel), viewable through a web-browser. However some clever people have an overlay for it, called IITC. It's like the standard map, but in an app, and with more options. You can find [more details about it here](https://iitc.me/).
 
 ## For verified players {#verifiedplayers}
 The chat links shown in the 'Verified - local' and 'Verified - regional' rooms below are for Enlightened agents who are already active members of their local community and known to players of that area. To join those rooms you will need to be a member of the [Rocks community](https://enlightened.rocks/comm/) for that region. In addition, your Telegram name will need to be linked to a verified [Rocks](https://enlightened.rocks/me) *or* [v.enl.one](https://v.enl.one/profile/edit) profile.
@@ -72,12 +72,12 @@ If you aren't in the correct [Rocks community](https://enlightened.rocks/comm/),
 ## Verified player chat rooms {#newplayerchatrooms}
 |  Area                      | Verified - local                             | Verified - regional               |
 |:---------------------------|:--------------------------------------------:|:---------------------------------:|
-| London (South) Enlightened | [South London Enlightened](https://theenl.uk/joinchat?id=ee13ae0cf960a9c48dbb6c7ba502b48034acdc32ac171cf85b3094cf33f7ebaeb8fa1975778fc1b4eb28e15b7148e580f3552f49202242b1a01a2dc887ffc1d9af5d5a47d1e26882a7ae25caf01df995)   | [London Enlightened](https://theenl.uk/joinchat?id=e29f3cb7e677b2a30003182f99a89445ebea9f3ab5b21a2478af59e15d7bbf693e93defc9a7c51b2e772de72b1ed6053e31e9cf83c40b58147ac60a3627bae2806384a51ebb777eb72ba88883faa0079)      |
+| London (South) Enlightened | [South London Enlightened](URL)              | [London Enlightened](URL)      |
 
 If you think that these links should be working for you, but they aren't, please talk to a member of your local community for help.
 
 ## Copy this page? {#addingrooms}
-If you are reading this and you'd like to have a similar page for your local area i.e. cornwall.theenl.uk or derbyshire.theenl.uk , then please join [this room](https://theenl.uk/joinchat?id=b7e4cb497e808a9c33cffb7e791076fce6763070ce6a0e92c24f9a8b03adb50261bddbfd08f5d078c28a6c5737000ead05552a4c703046cc0f55bcc036ab9855e45e595311eb3544ee1ccb9f29fd0732) to talk to someone about it (verified agents only). We can have you up and running, at no cost, in a day or two.
+If you are reading this and you'd like to have a similar page for your local area i.e. cornwall.theenl.uk or derbyshire.theenl.uk , then please join [this room](URL) to talk to someone about it (verified agents only). We can have you up and running, at no cost, in a day or two.
 
 ## Other platforms
 [Ingress Enlightened UK on Facebook](https://www.facebook.com/EnlightenedUK/)
