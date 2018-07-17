@@ -49,7 +49,7 @@ date <- x[wday(x,label = TRUE) == "Fri" & day(x) <= 7]
 ```
 
 ## Social events
-The Enlightened in London are a pretty social bunch. We meet (at least) once per week in a bar or cafe for a chat/drink, and normally build some high level portals so that we can hack high level kit together. We'd love you to join us! Our next public event is on **`r paste(day(date), months(date), year(date) )`** at [Location TBC](). People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We're easy to spot. Please come over and introduce yourself.
+The Enlightened in London are a pretty social bunch. We meet (at least) once per week in a bar or cafe for a chat/drink, and normally build some high level portals so that we can hack high level kit together. We'd love you to join us! Our next public event is on **`r paste(day(date), months(date), year(date) )`** at [The Northumberland Arms](https://www.google.com/maps?cid=4338212884711455831&hl=en). People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We're easy to spot. Please come over and introduce yourself.
 
 ## Useful bots and channels
 There are a number of news channels and bots in Telegram that you might want to look at. Here's a few of our favourites.
