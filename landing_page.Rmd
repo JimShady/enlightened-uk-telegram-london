@@ -65,7 +65,7 @@ The Enlightened in London are a pretty social bunch. We meet (at least) once per
 
 * [Enlightened London Events](https://t.me/joinchat/CLM_hE6KgWDEdBXCrsPHMQ)
 
-If you've not been to one before, we'd love you to join us! Our next *public* event is on `r paste(day(date), months(date), year(date) )` at [The Northumberland Arms](https://goo.gl/maps/kHpAnVo2vLS2). People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We are easy to spot. Please come over and introduce yourself. Failing that, ask in the [new players chat room](#newplayerchatrooms).
+If you've not been to one before, we'd love you to join us! Our next *public* event is on `r paste(day(date), months(date), year(date) )` at [The Horniman at Hays](https://goo.gl/maps/bqanE4ZXTzk). People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We are easy to spot. Please come over and introduce yourself. Failing that, ask in the [new players chat room](#newplayerchatrooms).
 
 ## Ingress Intel Total Conversion
 If you haven't found it yet, there's an online Ingress map. You can browse areas of the world to see portals and links, and if you're inclined, use it to plan your fields (or which areas to destroy!). The standard version of this map can [be found here](https://ingress.com/intel), viewable through a web-browser. However some clever people have an overlay for it, called IITC. It's like the standard map, but in an app, and with more options. You can find [more details about it here](https://iitc.me/).
