@@ -65,7 +65,8 @@ The Enlightened in London are a pretty social bunch. We meet (at least) once per
 
 * [Enlightened London Events](https://t.me/joinchat/CLM_hE6KgWDEdBXCrsPHMQ)
 
-If you've not been to one before, we'd love you to join us! Our next *public* event is on `r paste(day(date), months(date), year(date) )` at [O'Neills, near King's Cross](https://goo.gl/maps/5ZsC4Jyey9T2). People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We are easy to spot. Please come over and introduce yourself. Failing that, ask in the [new players chat room](#newplayerchatrooms).
+If you've not been to one before, we'd love you to join us! Our next *public* event is on `r paste(day(date), months(date), year(date) )` at [The Centre Page, near 
+St Paul's Cathedral](https://goo.gl/maps/mGKmmAF8Qms). People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We are easy to spot. Please come over and introduce yourself. Failing that, ask in the [new players chat room](#newplayerchatrooms).
 
 
 ## Ingress Intel Total Conversion
