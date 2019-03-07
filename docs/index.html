@@ -93,8 +93,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -103,14 +109,74 @@ button.code-folding-btn:focus {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -273,30 +339,25 @@ div.tocify {
 <thead>
 <tr class="header">
 <th align="center">Area</th>
-<th align="center">Local</th>
-<th align="center">Regional</th>
+<th align="center">Chat</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td align="center">East London Enlightened</td>
 <td align="center"><a href="https://t.me/joinchat/CLM_hFVUb8CPcIQqRAZ9Xw">East London Enlightened</a></td>
-<td align="center">London Enlightened</td>
 </tr>
 <tr class="even">
 <td align="center">West London Enlightened</td>
 <td align="center"><a href="https://t.me/joinchat/FbRZXUypYXvHi2snHOx3ZQ">West London Enlightened</a></td>
-<td align="center">London Enlightened</td>
 </tr>
 <tr class="odd">
 <td align="center">North London Enlightened</td>
 <td align="center">North London Enlightened</td>
-<td align="center">London Enlightened</td>
 </tr>
 <tr class="even">
 <td align="center">South London Enlightened</td>
 <td align="center"><a href="https://t.me/joinchat/CLM_hESoOFMBuCLORpF1fQ">South London Enlightened</a></td>
-<td align="center">London Enlightened</td>
 </tr>
 </tbody>
 </table>
@@ -307,7 +368,7 @@ div.tocify {
 <ul>
 <li><a href="https://t.me/joinchat/CLM_hE6KgWDEdBXCrsPHMQ">Enlightened London Events</a></li>
 </ul>
-<p>If you’ve not been to one before, we’d love you to join us! Our next <em>public</em> event is on 5 April 2019 at <a href="https://goo.gl/maps/mGKmmAF8Qms">The Centre Page, near St Paul’s Cathedral</a>. People normally arrive from about 6:30pm onwards. If you’re worried about finding us, don’t. We are easy to spot. Please come over and introduce yourself. Failing that, ask in the <a href="#newplayerchatrooms">new players chat room</a>.</p>
+<p>If you’ve not been to one before, we’d love you to join us! Our next <em>public</em> event is on 5 April 2019 at <a href>LOCATION TBC</a>. People normally arrive from about 6:30pm onwards. If you’re worried about finding us, don’t. We are easy to spot. Please come over and introduce yourself. Failing that, ask in the <a href="#newplayerchatrooms">new players chat room</a>.</p>
 </div>
 <div id="ingress-intel-total-conversion" class="section level2">
 <h2>Ingress Intel Total Conversion</h2>

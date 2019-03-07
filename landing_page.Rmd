@@ -53,20 +53,19 @@ date <- x[wday(x,label = TRUE) == "Fri" & day(x) <= 7]
 The links below are for Enlightened agents who are already active members of their local community, and known to players of that area. To join these rooms you will need to be a member of the [London Enlightened Rocks community](https://enlightened.rocks/comm/edYMS1vp.com), and your Telegram account will need to be linked to your [Rocks profile](https://enlightened.rocks/me). If either of these things aren't correct, the links will not work for you. Think they should be working but aren't? Talk to a local agent for help.
 
 ## Verified player chat rooms {#verifiedplayerchatrooms}
-|  Area                      | Local                                                                     | Regional             |
-|:--------------------------:|:-------------------------------------------------------------------------:|:--------------------:|
-| East London Enlightened    | [East London Enlightened](https://t.me/joinchat/CLM_hFVUb8CPcIQqRAZ9Xw)   | London Enlightened   |
-| West London Enlightened    | [West London Enlightened](https://t.me/joinchat/FbRZXUypYXvHi2snHOx3ZQ)   | London Enlightened   |
-| North London Enlightened   | North London Enlightened                                                  | London Enlightened   |
-| South London Enlightened   | [South London Enlightened](https://t.me/joinchat/CLM_hESoOFMBuCLORpF1fQ)  | London Enlightened   | 
+|  Area                      | Chat                                                                     | 
+|:--------------------------:|:------------------------------------------------------------------------:|
+| East London Enlightened    | [East London Enlightened](https://t.me/joinchat/CLM_hFVUb8CPcIQqRAZ9Xw)  | 
+| West London Enlightened    | [West London Enlightened](https://t.me/joinchat/FbRZXUypYXvHi2snHOx3ZQ)  |
+| North London Enlightened   | North London Enlightened                                                 |
+| South London Enlightened   | [South London Enlightened](https://t.me/joinchat/CLM_hESoOFMBuCLORpF1fQ) | 
 
 ## Social events
 The Enlightened in London are a pretty social bunch. We meet (at least) once per week in a bar or cafe for a chat/drink, and normally build some high level portals so that we can hack high level kit together. If you're a verified player, you can join our event announcement Telegram room by clicking this link (not-verified players will be automatically booted).
 
 * [Enlightened London Events](https://t.me/joinchat/CLM_hE6KgWDEdBXCrsPHMQ)
 
-If you've not been to one before, we'd love you to join us! Our next *public* event is on `r paste(day(date), months(date), year(date) )` at [The Centre Page, near 
-St Paul's Cathedral](https://goo.gl/maps/mGKmmAF8Qms). People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We are easy to spot. Please come over and introduce yourself. Failing that, ask in the [new players chat room](#newplayerchatrooms).
+If you've not been to one before, we'd love you to join us! Our next *public* event is on `r paste(day(date), months(date), year(date) )` at [LOCATION TBC](). People normally arrive from about 6:30pm onwards. If you're worried about finding us, don't. We are easy to spot. Please come over and introduce yourself. Failing that, ask in the [new players chat room](#newplayerchatrooms).
 
 
 ## Ingress Intel Total Conversion
