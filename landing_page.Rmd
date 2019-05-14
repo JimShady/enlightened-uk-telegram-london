@@ -22,6 +22,8 @@ library(lubridate)
 library(mapview)
 library(sp)
 library(leaflet)
+library(tidyverse)
+library(kableExtra)
 ```
 
 ## Welcome {#welcome}
@@ -53,13 +55,25 @@ date <- x[wday(x,label = TRUE) == "Fri" & day(x) <= 7]
 The links below are for Enlightened agents who are already active members of their local community, and known to players of that area. To join these rooms you will need to be a member of the [London Enlightened Rocks community](https://enlightened.rocks/comm/edYMS1vp.com), and your Telegram account will need to be linked to your [Rocks profile](https://enlightened.rocks/me). If either of these things aren't correct, the links will not work for you. Think they should be working but aren't? Talk to a local agent for help.
 
 ## Verified player chat rooms {#verifiedplayerchatrooms}
-|  Area                      | Chat                                                                     | 
-|:--------------------------:|:------------------------------------------------------------------------:|
-| East London Enlightened    | [East London Enlightened](https://t.me/joinchat/CLM_hFVUb8CPcIQqRAZ9Xw)  | 
-| West London Enlightened    | [West London Enlightened](https://t.me/joinchat/FbRZXUypYXvHi2snHOx3ZQ)  |
-| North London Enlightened   | [North London Enlightened](https://t.me/joinchat/B_VxgRXc-UjzSi7zLTz4XQ) |
-| South London Enlightened   | [South London Enlightened](https://t.me/joinchat/CLM_hESoOFMBuCLORpF1fQ) | 
+```{r echo = F, warning=F}
+east_london    <- 'https://t.me/joinchat/CLM_hFVUb8CPcIQqRAZ9Xw'
+north_london   <- 'https://t.me/joinchat/FbRZXUypYXvHi2snHOx3ZQ'
+south_london   <- 'https://t.me/joinchat/B_VxgRXc-UjzSi7zLTz4XQ'
+west_london    <- 'https://t.me/joinchat/CLM_hESoOFMBuCLORpF1fQ'
+general_london <- 'https://enl.rocks/-ROum'
 
+tibble(Local_Chat_URL     = c(east_london, north_london, south_london, west_london),
+       Local_Chat_Text    = c('East London', 'North London', 'South London', 'West London'),
+       Regional_Chat_URL  = rep(general_london, 4),
+       Regional_Chat_Text = rep('London', 4)) %>%
+  mutate(Local           =  cell_spec(Local_Chat_Text, "html", link = Local_Chat_URL)) %>%
+  mutate(Regional        = cell_spec(Regional_Chat_Text, "html", link = Regional_Chat_URL)) %>%
+  select(Local, Regional) %>%
+  kable("html", escape = FALSE, align="c") %>%
+  collapse_rows(columns = 2, valign = "middle") %>%
+  kable_styling(bootstrap_options = c("hover", "condensed"))
+
+```
 ## Social events
 The Enlightened in London are a pretty social bunch. We meet (at least) once per week in a bar or cafe for a chat/drink, and normally build some high level portals so that we can hack high level kit together. If you're a verified player, you can join our event announcement Telegram room by clicking this link (not-verified players will be automatically booted).
 
