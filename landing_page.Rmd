@@ -57,9 +57,9 @@ The links below are for Enlightened agents who are already active members of the
 ## Verified player chat rooms {#verifiedplayerchatrooms}
 ```{r echo = F, warning=F}
 east_london    <- 'https://t.me/joinchat/CLM_hFVUb8CPcIQqRAZ9Xw'
-north_london   <- 'https://t.me/joinchat/FbRZXUypYXvHi2snHOx3ZQ'
-south_london   <- 'https://t.me/joinchat/B_VxgRXc-UjzSi7zLTz4XQ'
-west_london    <- 'https://t.me/joinchat/CLM_hESoOFMBuCLORpF1fQ'
+north_london   <- 'https://t.me/joinchat/B_VxgRXc-UjzSi7zLTz4XQ'
+south_london   <- 'https://t.me/joinchat/CLM_hESoOFMBuCLORpF1fQ'
+west_london    <- 'https://t.me/joinchat/FbRZXUypYXvHi2snHOx3ZQ'
 general_london <- 'https://enl.rocks/-ROum'
 
 tibble(Local_Chat_URL     = c(east_london, north_london, south_london, west_london),
