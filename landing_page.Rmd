@@ -43,7 +43,7 @@ Have a look through the [new player chat rooms](#newplayerchatrooms) below, find
 |:------------------:|:----------------------------------------------------------------------:|
 | East London        | [East London Tadpoles](https://t.me/joinchat/CLM_hFKd6xNQcn8Oq8GycQ)   |
 | West London        | [West London Tadpoles](https://t.me/joinchat/FbRZXVDEN2lND-zbwAzTSw)|
-| North London       | [North London Tadpoles](https://t.me/joinchat/B_VxgUxXCJTux2zDf4YK2Q)  |
+| North London       | [North London Tadpoles](https://t.me/joinchat/11MP0c339XI0Yzg0)  |
 | South London       | [South London Tadpoles](https://t.me/joinchat/CLM_hEYFlIjFAbVwz3UtAQ)  |
 
 ```{r include = F}
@@ -56,8 +56,8 @@ The links below are for Enlightened agents who are already active members of the
 
 ## Verified player chat rooms {#verifiedplayerchatrooms}
 ```{r echo = F, warning=F}
-east_london    <- 'https://t.me/joinchat/CLM_hFVUb8CPcIQqRAZ9Xw'
-north_london   <- 'https://t.me/joinchat/B_VxgRXc-UjzSi7zLTz4XQ'
+east_london    <- 'https://t.me/joinchat/VVRvwN_Hv3i25-r2'
+north_london   <- 'https://t.me/joinchat/B_VxgUxXCJTux2zDf4YK2Q'
 south_london   <- 'https://t.me/joinchat/CLM_hESoOFMBuCLORpF1fQ'
 west_london    <- 'https://t.me/joinchat/FbRZXUypYXvHi2snHOx3ZQ'
 general_london <- 'https://enl.rocks/-ROum'
