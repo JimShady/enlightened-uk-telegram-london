@@ -77,7 +77,7 @@ tibble(Local_Chat_URL     = c(east_london, north_london, south_london, west_lond
 ## Social events
 The Enlightened in London are a pretty social bunch. We meet (at least) once per week in a bar or cafe for a chat/drink, and normally build some high level portals so that we can hack high level kit together. If you're a verified player, you can join our event announcement Telegram room by clicking this link (not-verified players will be automatically booted).
 
-* [Enlightened London Events](https://t.me/joinchat/CLM_hE6KgWDEdBXCrsPHMQ)
+* [Enlightened London Events](https://t.me/+HsqsTPP7hpJhY2Jk)
 
 If you've not been to one before, we'd love you to join us! We have an open social on the first Friday of every month where new players are especially welcome. People normally arrive from about 6:30pm onwards. For details, please ask in the [new players chat room](#newplayerchatrooms).
 
